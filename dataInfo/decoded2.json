@@ -1,0 +1,132 @@
+[
+    LogDescription {
+      fragment: EventFragment {
+        type: 'event',
+        inputs: [Array],
+        name: 'Permit',
+        anonymous: false
+      },
+      name: 'Permit',
+      signature: 'Permit(address,address,address,uint160,uint48,uint48)',
+      topic: '0xc6a377bfc4eb120024a8ac08eef205be16b817020812c73223e81d1bdb9708ec',
+      args: Result(6) [
+        '0x1110591EA86499f97F5968E08B29CEE28243D04f',
+        '0x046EeE2cc3188071C02BfC1745A6b17c656e3f3d',
+        '0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD',
+        1461501637330902918203684832716283019655932542975n,
+        1704408602n,
+        0n
+      ],
+      address: '0x000000000022d473030f116ddee9f6b43ac78ba3'
+    },
+    LogDescription {
+      fragment: EventFragment {
+        type: 'event',
+        inputs: [Array],
+        name: 'Transfer',
+        anonymous: false
+      },
+      name: 'Transfer',
+      signature: 'Transfer(address,address,uint256)',
+      topic: '0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef',
+      args: Result(3) [
+        '0x510100D5143e011Db24E2aa38abE85d73D5B2177',
+        '0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD',
+        277799018673010612n
+      ],
+      address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
+    },
+    LogDescription {
+      fragment: EventFragment {
+        type: 'event',
+        inputs: [Array],
+        name: 'Transfer',
+        anonymous: false
+      },
+      name: 'Transfer',
+      signature: 'Transfer(address,address,uint256)',
+      topic: '0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef',
+      args: Result(3) [
+        '0x1110591EA86499f97F5968E08B29CEE28243D04f',
+        '0x510100D5143e011Db24E2aa38abE85d73D5B2177',
+        4000000000000000000000n
+      ],
+      address: '0x046eee2cc3188071c02bfc1745a6b17c656e3f3d'
+    },
+    LogDescription {
+      fragment: EventFragment {
+        type: 'event',
+        inputs: [Array],
+        name: 'Swap',
+        anonymous: false
+      },
+      name: 'Swap',
+      signature: 'Swap(address,address,int256,int256,uint160,uint128,int24)',
+      topic: '0xc42079f94a6350d7e6235f29174924f928cc2ac818eb64fed8004e115fbcca67',
+      args: Result(7) [
+        '0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD',
+        '0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD',
+        4000000000000000000000n,
+        -277799018673010612n,
+        661238271960974213865603263n,
+        770514461705316546881219n,
+        -95725n
+      ],
+      address: '0x510100d5143e011db24e2aa38abe85d73d5b2177'
+    },
+    LogDescription {
+      fragment: EventFragment {
+        type: 'event',
+        inputs: [Array],
+        name: 'Transfer',
+        anonymous: false
+      },
+      name: 'Transfer',
+      signature: 'Transfer(address,address,uint256)',
+      topic: '0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef',
+      args: Result(3) [
+        '0xe21876Afd4C632b22870DF250E5Df1754C1875E8',
+        '0x1110591EA86499f97F5968E08B29CEE28243D04f',
+        247973387601460571734n
+      ],
+      address: '0xda31d0d1bc934fc34f7189e38a413ca0a5e8b44f'
+    },
+    LogDescription {
+      fragment: EventFragment {
+        type: 'event',
+        inputs: [Array],
+        name: 'Transfer',
+        anonymous: false
+      },
+      name: 'Transfer',
+      signature: 'Transfer(address,address,uint256)',
+      topic: '0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef',
+      args: Result(3) [
+        '0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD',
+        '0xe21876Afd4C632b22870DF250E5Df1754C1875E8',
+        277799018673010612n
+      ],
+      address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
+    },
+    LogDescription {
+      fragment: EventFragment {
+        type: 'event',
+        inputs: [Array],
+        name: 'Swap',
+        anonymous: false
+      },
+      name: 'Swap',
+      signature: 'Swap(address,address,int256,int256,uint160,uint128,int24)',
+      topic: '0xc42079f94a6350d7e6235f29174924f928cc2ac818eb64fed8004e115fbcca67',
+      args: Result(7) [
+        '0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD',
+        '0x1110591EA86499f97F5968E08B29CEE28243D04f',
+        277799018673010612n,
+        -247973387601460571734n,
+        2378711731486793743802562642572n,
+        31265251295432788597841n,
+        68043n
+      ],
+      address: '0xe21876afd4c632b22870df250e5df1754c1875e8'
+    }
+  ]

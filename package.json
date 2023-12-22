@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "axios": "^1.6.2",
+    "chai": "^4.3.10",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0",
+    "mocha": "^10.2.0",
+    "web3": "^4.3.0"
+  }
+}
