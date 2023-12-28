@@ -119,7 +119,6 @@ async function getTxnAction2(tx, monitorTarget) {
     try {
         const contractName = await getContractName(tx.to === monitorTarget.address ? tx.from : tx.to)
         const txnData = {
-            success: false,
             event: "normal-transaction",
             from: tx.from,
             to: tx.to,
@@ -168,35 +167,40 @@ async function getTxAction(tx, monitorTarget) {
 }
 
 async function sendToDiscord(monitorTarget, msg, tx) {
-    const unixTimeStamp = tx.timeStamp * 1000 //convert to milliseconds
-    const date = new Date(unixTimeStamp)
-    const year = date.getFullYear()
-    const month = date.getMonth() + 1 // Months are zero-based, so add 1
-    const day = date.getDate()
-    const hours = date.getHours()
-    const minutes = date.getMinutes()
-    const seconds = date.getSeconds()
-    const formattedTime = `${month.toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}-${year} ${hours
-        .toString()
-        .padStart(2, "0")}:${minutes.toString().padStart(2, "0")}:${seconds.toString().padStart(2, "0")}`
-    const description = `[${monitorTarget.nickName}](${ETHERSCAN_MAINNET}address/${
-        monitorTarget.address
-    })\n\nTransaction Actions:\n\`${msg}\nTx Value: ${ethers.formatEther(
-        tx.value
-    )} eth\`\n\n[Etherscan Link](${ETHERSCAN_MAINNET}tx/${tx.hash})`
-    const webhook = new WebhookClient({
-        id: WEBHOOK_ID,
-        token: WEBHOOK_TOKEN,
-    })
-    const embed = new EmbedBuilder()
-        .setTitle(`New Transaction Detected`)
-        .setColor(0x00ffff)
-        .setDescription(description)
-        .setFooter({ text: `Tx submitted at ${formattedTime}` }) // Set color (you can use hex codes)
+    try {
+        logger.info(`${monitorTarget.nicName} Sending to Discord: ${tx.hash}`)
+        const unixTimeStamp = tx.timeStamp * 1000 //convert to milliseconds
+        const date = new Date(unixTimeStamp)
+        const year = date.getFullYear()
+        const month = date.getMonth() + 1 // Months are zero-based, so add 1
+        const day = date.getDate()
+        const hours = date.getHours()
+        const minutes = date.getMinutes()
+        const seconds = date.getSeconds()
+        const formattedTime = `${month.toString().padStart(2, "0")}-${day.toString().padStart(2, "0")}-${year} ${hours
+            .toString()
+            .padStart(2, "0")}:${minutes.toString().padStart(2, "0")}:${seconds.toString().padStart(2, "0")}`
+        const description = `[${monitorTarget.nickName}](${ETHERSCAN_MAINNET}address/${
+            monitorTarget.address
+        })\n\nTransaction Actions:\n\`${msg}\nTx Value: ${ethers.formatEther(
+            tx.value
+        )} eth\`\n\n[Etherscan Link](${ETHERSCAN_MAINNET}tx/${tx.hash})`
+        const webhook = new WebhookClient({
+            id: WEBHOOK_ID,
+            token: WEBHOOK_TOKEN,
+        })
+        const embed = new EmbedBuilder()
+            .setTitle(`New Transaction Detected`)
+            .setColor(0x00ffff)
+            .setDescription(description)
+            .setFooter({ text: `Tx submitted at ${formattedTime}` }) // Set color (you can use hex codes)
 
-    await webhook.send({
-        embeds: [embed],
-    })
+        await webhook.send({
+            embeds: [embed],
+        })
+    } catch (e) {
+        logger.error(`[WARNING] ${monitorTarget.nickName} Error sending to discord: ${tx.hash}`)
+    }
 }
 
 async function addUser(nickName, address) {

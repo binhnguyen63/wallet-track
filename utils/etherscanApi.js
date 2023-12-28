@@ -64,7 +64,7 @@ async function getContractName(contractAddress) {
             throw new Error("")
         }
     } catch (e) {
-        logger.error(`[ETHERSCAN] Error getting contract name: ${e}`)
+        logger.error(`Error getting contract name: ${e}`)
         return "unknown contract name"
     }
 }
