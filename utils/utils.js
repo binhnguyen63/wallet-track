@@ -198,8 +198,10 @@ async function sendToDiscord(monitorTarget, msg, tx) {
         await webhook.send({
             embeds: [embed],
         })
+        return true
     } catch (e) {
         logger.error(`[WARNING] ${monitorTarget.nickName} Error sending to discord: ${tx.hash}`)
+        return false
     }
 }
 
