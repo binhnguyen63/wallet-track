@@ -1,0 +1,246 @@
+12/27/2023 16:12:01 [INFO]: getting latest block number
+12/27/2023 16:12:01 [ERROR]: Cannot read properties of undefined (reading 'length')
+12/27/2023 16:12:14 [INFO]: getting latest block number
+12/27/2023 16:12:15 [INFO]: [ETHERSCAN] 0x54793c8f80F642Ed4e200177bf845c61915EBc55 Fetching transaction Data
+12/27/2023 16:13:03 [INFO]: getting latest block number
+12/27/2023 16:13:04 [INFO]: [ETHERSCAN] 0x54793c8f80F642Ed4e200177bf845c61915EBc55 Fetching transaction Data
+12/27/2023 16:13:06 [INFO]: getting latest block number
+12/27/2023 16:13:07 [INFO]: [ETHERSCAN] 0xE6ff1989f68b6Fd95b3B9f966d32c9E7d96e6255 Fetching transaction Data
+12/27/2023 16:13:08 [INFO]: getting latest block number
+12/27/2023 16:13:08 [INFO]: [ETHERSCAN] 0x80eC8c4e035A9A200155a3F8d3E5fD29b2d8Ca42 Fetching transaction Data
+12/27/2023 16:15:54 [INFO]: getting latest block number
+12/27/2023 16:15:54 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:15:57 [INFO]: getting latest block number
+12/27/2023 16:15:58 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:16:01 [INFO]: getting latest block number
+12/27/2023 16:16:01 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:16:04 [INFO]: getting latest block number
+12/27/2023 16:16:04 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:16:07 [INFO]: getting latest block number
+12/27/2023 16:16:07 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:16:48 [INFO]: getting latest block number
+12/27/2023 16:16:48 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:16:51 [INFO]: getting latest block number
+12/27/2023 16:16:51 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:16:54 [INFO]: getting latest block number
+12/27/2023 16:16:55 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:16:58 [INFO]: getting latest block number
+12/27/2023 16:16:58 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:17:01 [INFO]: getting latest block number
+12/27/2023 16:17:01 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:19:08 [INFO]: getting latest block number
+12/27/2023 16:19:08 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:19:35 [INFO]: getting latest block number
+12/27/2023 16:19:35 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:20:04 [INFO]: getting latest block number
+12/27/2023 16:20:04 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:21:22 [INFO]: getting latest block number
+12/27/2023 16:21:22 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:21:26 [INFO]: getting latest block number
+12/27/2023 16:21:26 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 16:21:29 [INFO]: getting latest block number
+12/27/2023 16:21:29 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:07:30 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:32 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:34 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:36 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:38 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:40 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:42 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:08:22 [ERROR]: Mike Error fetching txn data: ReferenceError: logger is not defined
+12/27/2023 20:08:25 [ERROR]: Mike Error fetching txn data: ReferenceError: logger is not defined
+12/27/2023 20:08:28 [ERROR]: Mike Error fetching txn data: ReferenceError: logger is not defined
+12/27/2023 20:09:22 [INFO]: getting latest block number
+12/27/2023 20:09:22 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:09:22 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:09:25 [INFO]: getting latest block number
+12/27/2023 20:09:25 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:09:25 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:09:28 [INFO]: getting latest block number
+12/27/2023 20:09:28 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:09:28 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:22 [INFO]: getting latest block number
+12/27/2023 20:12:22 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:12:22 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:25 [INFO]: getting latest block number
+12/27/2023 20:12:25 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:12:25 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:28 [INFO]: getting latest block number
+12/27/2023 20:12:28 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:12:28 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:31 [INFO]: getting latest block number
+12/27/2023 20:12:31 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:12:31 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:41 [INFO]: getting latest block number
+12/27/2023 20:12:41 [ERROR]: Error getting latest block number: InvalidClientError: Client URL "[object Object]" is invalid.
+12/27/2023 20:12:41 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:44 [INFO]: getting latest block number
+12/27/2023 20:12:44 [ERROR]: Error getting latest block number: InvalidClientError: Client URL "[object Object]" is invalid.
+12/27/2023 20:12:44 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:47 [INFO]: getting latest block number
+12/27/2023 20:12:47 [ERROR]: Error getting latest block number: InvalidClientError: Client URL "[object Object]" is invalid.
+12/27/2023 20:12:47 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:16:59 [INFO]: getting latest block number
+12/27/2023 20:16:59 [ERROR]: Error getting latest block number: InvalidClientError: Client URL "[object Object]" is invalid.
+12/27/2023 20:16:59 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:17:20 [INFO]: getting latest block number
+12/27/2023 20:17:20 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:17:21 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:17:21 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:17:21 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:17:23 [INFO]: getting latest block number
+12/27/2023 20:17:23 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:17:23 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:17:23 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:17:23 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:20:23 [INFO]: getting latest block number
+12/27/2023 20:20:23 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:20:23 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:20:23 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:20:23 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:20:25 [INFO]: getting latest block number
+12/27/2023 20:20:25 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:20:25 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:20:25 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:20:25 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:20:27 [INFO]: getting latest block number
+12/27/2023 20:20:27 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:20:27 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:20:27 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:20:27 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:20:29 [INFO]: getting latest block number
+12/27/2023 20:20:30 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:20:30 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:20:30 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:20:30 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:21:39 [INFO]: getting latest block number
+12/27/2023 20:21:39 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:22:49 [INFO]: getting latest block number
+12/27/2023 20:22:49 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:22:49 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:22:49 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:22:49 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:23:03 [INFO]: getting latest block number
+12/27/2023 20:23:03 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:23:03 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:23:03 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:23:04 [INFO]: Updating monitor target data
+12/27/2023 20:24:51 [INFO]: getting latest block number
+12/27/2023 20:24:51 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:24:52 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:24:52 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:24:52 [INFO]: Updating monitor target data
+12/27/2023 20:36:48 [INFO]: getting latest block number
+12/27/2023 20:36:48 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:36:48 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:36:48 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:36:48 [INFO]: Updating monitor target data
+12/27/2023 20:45:41 [INFO]: getting latest block number
+12/27/2023 20:45:42 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:45:42 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:45:42 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 20:45:42 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:45:43 [INFO]: Updating monitor target data
+12/27/2023 20:45:47 [INFO]: getting latest block number
+12/27/2023 20:45:47 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:45:47 [ERROR]: Mike Error fetching txn data: ReferenceError: txlst is not defined
+12/27/2023 20:46:52 [INFO]: getting latest block number
+12/27/2023 20:46:52 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:46:53 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:46:53 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 20:46:53 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:46:53 [INFO]: Updating monitor target data
+12/27/2023 20:48:29 [INFO]: getting latest block number
+12/27/2023 20:48:29 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:48:32 [INFO]: getting latest block number
+12/27/2023 20:48:32 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:48:36 [INFO]: getting latest block number
+12/27/2023 20:48:36 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:48:39 [INFO]: getting latest block number
+12/27/2023 20:48:39 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:48:39 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:48:39 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 20:48:39 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:48:39 [INFO]: Updating monitor target data
+12/27/2023 20:48:43 [INFO]: getting latest block number
+12/27/2023 20:48:43 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:48:46 [INFO]: getting latest block number
+12/27/2023 20:48:47 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:50:45 [INFO]: getting latest block number
+12/27/2023 20:50:46 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:50:46 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:50:46 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 20:50:46 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:50:46 [INFO]: Updating monitor target data
+12/27/2023 20:52:34 [INFO]: getting latest block number
+12/27/2023 20:52:34 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:56:25 [INFO]: getting latest block number
+12/27/2023 20:56:25 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:56:25 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:56:25 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 20:56:25 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:56:26 [INFO]: Updating monitor target data
+12/27/2023 20:59:21 [INFO]: getting latest block number
+12/27/2023 20:59:21 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 20:59:22 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:59:22 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 20:59:22 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 20:59:22 [INFO]: Updating monitor target data
+12/27/2023 20:59:26 [INFO]: getting latest block number
+12/27/2023 20:59:26 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:00:41 [INFO]: getting latest block number
+12/27/2023 21:00:41 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:00:52 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:00:52 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 21:00:56 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:00:56 [INFO]: Updating monitor target data
+12/27/2023 21:01:00 [INFO]: getting latest block number
+12/27/2023 21:01:00 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:03:32 [INFO]: getting latest block number
+12/27/2023 21:03:32 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:03:33 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:03:33 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 21:03:33 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:03:33 [INFO]: Updating monitor target data
+12/27/2023 21:04:10 [INFO]: getting latest block number
+12/27/2023 21:04:10 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:04:10 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:04:10 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 21:04:10 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:04:11 [INFO]: Updating monitor target data
+12/27/2023 21:04:15 [INFO]: getting latest block number
+12/27/2023 21:04:15 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:04:18 [INFO]: getting latest block number
+12/27/2023 21:04:18 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:07:42 [INFO]: getting latest block number
+12/27/2023 21:07:42 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:07:42 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:07:42 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 21:07:42 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:07:43 [INFO]: Updating monitor target data
+12/27/2023 21:08:50 [INFO]: getting latest block number
+12/27/2023 21:08:51 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:08:57 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:08:57 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 21:08:57 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:08:57 [INFO]: Updating monitor target data
+12/27/2023 21:10:01 [INFO]: getting latest block number
+12/27/2023 21:10:01 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:10:01 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:10:01 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 21:10:01 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:10:02 [INFO]: Updating monitor target data
+12/27/2023 21:10:06 [INFO]: getting latest block number
+12/27/2023 21:10:06 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:10:35 [INFO]: getting latest block number
+12/27/2023 21:10:36 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:10:36 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:10:36 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 21:10:36 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:10:36 [INFO]: Updating monitor target data
+12/27/2023 21:12:26 [INFO]: getting latest block number
+12/27/2023 21:12:26 [INFO]: [ETHERSCAN] Mike Fetching transaction Data
+12/27/2023 21:12:27 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:12:27 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 21:12:27 [INFO]: fetching txn action --ver 2 - 0x3d1efaeeb44f011c628967e50e798d408c3fdcda74e53cc0d73b2098467b1dc0
+12/27/2023 21:12:27 [INFO]: Updating monitor target data
