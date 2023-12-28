@@ -12,8 +12,11 @@ async function main() {
             const txLst = await fetchTxLst(monitorTarget)
             for (const tx of txLst) {
                 const txAction = await getTxAction(tx, monitorTarget)
-                await sendToDiscord(monitorTarget, txAction, tx)
-                await updateMonitorTargetData(monitorTarget, monitorTargets, tx.timeStamp, tx.blockNumber)
+                const successSendingToDiscord = await sendToDiscord(monitorTarget, txAction, tx)
+                if (successSendingToDiscord) {
+                    await updateMonitorTargetData(monitorTarget, monitorTargets, tx.timeStamp, tx.blockNumber)
+                }
+
                 await new Promise((resolve) => setTimeout(resolve, 1000))
             }
             await new Promise((resolve) => setTimeout(resolve, 1000))

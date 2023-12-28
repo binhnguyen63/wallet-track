@@ -147,3 +147,12 @@
 12/27/2023 21:47:23 [INFO]: [ALCHEMY] getting latest block number
 12/27/2023 21:47:23 [INFO]: [ETHERSCAN] ppt-0x5f-Capital Fetching transaction Data
 12/27/2023 21:47:24 [INFO]: [ALCHEMY] getting latest block number
+12/27/2023 23:33:38 [INFO]: [ALCHEMY] getting latest block number
+12/27/2023 23:33:38 [INFO]: [ETHERSCAN] [Mike] Fetching transaction Data
+12/27/2023 23:33:38 [INFO]: [ETHERSCAN] Fetching txn data --ver 1: 0x549a67391eb8e17e82b3e5dc0c850f32e60da0f5150088e63e8481125e6a3bf5
+12/27/2023 23:33:38 [INFO]: [ETHERSCAN] getting contract name: 0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5
+12/27/2023 23:33:38 [INFO]: fetching txn action --ver 2 - 0x549a67391eb8e17e82b3e5dc0c850f32e60da0f5150088e63e8481125e6a3bf5
+12/27/2023 23:33:39 [INFO]: Mike Sending to Discord: 0x549a67391eb8e17e82b3e5dc0c850f32e60da0f5150088e63e8481125e6a3bf5
+12/27/2023 23:33:39 [INFO]: Updating monitor target data
+12/27/2023 23:33:41 [INFO]: [ALCHEMY] getting latest block number
+12/27/2023 23:33:41 [INFO]: [ETHERSCAN] [Shyree-main] Fetching transaction Data
