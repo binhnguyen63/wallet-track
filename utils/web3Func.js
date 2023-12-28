@@ -1,5 +1,4 @@
 const { RPC_URL_MAINNET } = require("../constants")
-console.log(RPC_URL_MAINNET)
 const { logger } = require("../settings")
 const { Web3 } = require("web3")
 

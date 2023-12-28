@@ -19,7 +19,7 @@ async function main() {
             await new Promise((resolve) => setTimeout(resolve, 1000))
         }
     } catch (e) {
-        logger.error(e)
+        logger.error(`Error running main: ${e}`)
     }
     setTimeout(main, INTERVAL)
 }
