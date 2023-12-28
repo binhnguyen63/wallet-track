@@ -168,7 +168,7 @@ async function getTxAction(tx, monitorTarget) {
 
 async function sendToDiscord(monitorTarget, msg, tx) {
     try {
-        logger.info(`${monitorTarget.nicName} Sending to Discord: ${tx.hash}`)
+        logger.info(`${monitorTarget.nickName} Sending to Discord: ${tx.hash}`)
         const unixTimeStamp = tx.timeStamp * 1000 //convert to milliseconds
         const date = new Date(unixTimeStamp)
         const year = date.getFullYear()

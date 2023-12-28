@@ -13,7 +13,7 @@ async function fetchTxLst(monitorTarget) {
         }
 
         const initialFetch = monitorTarget.lastMonitoredBlock ? false : true
-        logger.info(`[ETHERSCAN] ${monitorTarget.nickName} Fetching transaction Data`)
+        logger.info(`[ETHERSCAN] [${monitorTarget.nickName}] Fetching transaction Data`)
         const res = await axios.get(`${ETHERSCAN_ENDPOINT_MAINNET}?module=account`, {
             params: {
                 action: "txlist",
