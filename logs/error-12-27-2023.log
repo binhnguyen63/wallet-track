@@ -1,0 +1,51 @@
+12/27/2023 16:12:01 [ERROR]: Cannot read properties of undefined (reading 'length')
+12/27/2023 20:07:30 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:32 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:34 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:36 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:38 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:40 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:07:42 [ERROR]: fetchTxLst is not defined
+12/27/2023 20:08:22 [ERROR]: Mike Error fetching txn data: ReferenceError: logger is not defined
+12/27/2023 20:08:25 [ERROR]: Mike Error fetching txn data: ReferenceError: logger is not defined
+12/27/2023 20:08:28 [ERROR]: Mike Error fetching txn data: ReferenceError: logger is not defined
+12/27/2023 20:09:22 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:09:22 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:09:25 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:09:25 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:09:28 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:09:28 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:22 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:12:22 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:25 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:12:25 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:28 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:12:28 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:31 [ERROR]: Error getting latest block number: ReferenceError: Web3 is not defined
+12/27/2023 20:12:31 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:41 [ERROR]: Error getting latest block number: InvalidClientError: Client URL "[object Object]" is invalid.
+12/27/2023 20:12:41 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:44 [ERROR]: Error getting latest block number: InvalidClientError: Client URL "[object Object]" is invalid.
+12/27/2023 20:12:44 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:12:47 [ERROR]: Error getting latest block number: InvalidClientError: Client URL "[object Object]" is invalid.
+12/27/2023 20:12:47 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:16:59 [ERROR]: Error getting latest block number: InvalidClientError: Client URL "[object Object]" is invalid.
+12/27/2023 20:16:59 [ERROR]: Mike Error fetching txn data: Error: invalid block number
+12/27/2023 20:17:21 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:17:21 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:17:23 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:17:23 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:20:23 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:20:23 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:20:25 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:20:25 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:20:27 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:20:27 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:20:30 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:20:30 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:22:49 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:22:49 [ERROR]: This action requires a webhook token, but none is available.
+12/27/2023 20:23:03 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:24:52 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:36:48 [ERROR]: Error getting transaction action: ReferenceError: contractName is not defined
+12/27/2023 20:45:47 [ERROR]: Mike Error fetching txn data: ReferenceError: txlst is not defined
