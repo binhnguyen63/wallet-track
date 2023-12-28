@@ -1,62 +1,62 @@
 [
-  {
-    "nickName": "Mike",
-    "address": "0x54793c8f80F642Ed4e200177bf845c61915EBc55",
-    "lastMonitoredTimeStamp": 1703397287,
-    "lastMonitoredBlock": 18853681
-  },
-  {
-    "nickName": "Shyree-main",
-    "address": "0xE6ff1989f68b6Fd95b3B9f966d32c9E7d96e6255",
-    "lastMonitoredTimeStamp": 1703000939,
-    "lastMonitoredBlock": 18820986
-  },
-  {
-    "nickName": "Shyree-Vault",
-    "address": "0x80eC8c4e035A9A200155a3F8d3E5fD29b2d8Ca42",
-    "lastMonitoredTimeStamp": 1703700335,
-    "lastMonitoredBlock": 18878664
-  },
-  {
-    "nickName": "Wiz",
-    "address": "0x1f2eb98b4e5a445B166Cf152E50c008B85ea17B1",
-    "lastMonitoredTimeStamp": 1703303087,
-    "lastMonitoredBlock": 18845923
-  },
-  {
-    "nickName": "Vombatus_eth",
-    "address": "0x38A4D889a1979133FbC1D58F970f0953E3715c26",
-    "lastMonitoredTimeStamp": 1703425007,
-    "lastMonitoredBlock": 18855962
-  },
-  {
-    "nickName": "Vombatuseth(vault)?",
-    "address": "0x717a578e4a157ea52ee989be75f15957f294d1a9",
-    "lastMonitoredTimeStamp": 1700111855,
-    "lastMonitoredBlock": 18582304
-  },
-  {
-    "nickName": "Lutherin",
-    "address": "0x27dEd67D88C0DA8c6b0fB0F7c78D87926D71119a",
-    "lastMonitoredTimeStamp": 1703590355,
-    "lastMonitoredBlock": 18869594
-  },
-  {
-    "nickName": "0x5f-Capital",
-    "address": "0x5f896f9464efd90afcece73ef0ab4ee63536c184",
-    "lastMonitoredTimeStamp": 1702449491,
-    "lastMonitoredBlock": 18775515
-  },
-  {
-    "nickName": "ppt-0x5f-Capital",
-    "address": "0x937ec42ddfec2059bb64d613f99547a62cda6c01",
-    "lastMonitoredTimeStamp": 1702874603,
-    "lastMonitoredBlock": 18810574
-  },
-  {
-    "nickName": "pdf-0x5f-Capital",
-    "address": "0x96488f9fcd0c6997c771a26d85d1f61cacfa502c",
-    "lastMonitoredTimeStamp": 1703369579,
-    "lastMonitoredBlock": 18851409
-  }
+    {
+        "nickName": "Mike",
+        "address": "0x54793c8f80F642Ed4e200177bf845c61915EBc55",
+        "lastMonitoredTimeStamp": null,
+        "lastMonitoredBlock": null
+    },
+    {
+        "nickName": "Shyree-main",
+        "address": "0xE6ff1989f68b6Fd95b3B9f966d32c9E7d96e6255",
+        "lastMonitoredTimeStamp": null,
+        "lastMonitoredBlock": null
+    },
+    {
+        "nickName": "Shyree-Vault",
+        "address": "0x80eC8c4e035A9A200155a3F8d3E5fD29b2d8Ca42",
+        "lastMonitoredTimeStamp": null,
+        "lastMonitoredBlock": null
+    },
+    {
+        "nickName": "Wiz",
+        "address": "0x1f2eb98b4e5a445B166Cf152E50c008B85ea17B1",
+        "lastMonitoredTimeStamp": null,
+        "lastMonitoredBlock": null
+    },
+    {
+        "nickName": "Vombatus_eth",
+        "address": "0x38A4D889a1979133FbC1D58F970f0953E3715c26",
+        "lastMonitoredTimeStamp": null,
+        "lastMonitoredBlock": null
+    },
+    {
+        "nickName": "Vombatuseth(vault)?",
+        "address": "0x717a578e4a157ea52ee989be75f15957f294d1a9",
+        "lastMonitoredTimeStamp": null,
+        "lastMonitoredBlock": null
+    },
+    {
+        "nickName": "Lutherin",
+        "address": "0x27dEd67D88C0DA8c6b0fB0F7c78D87926D71119a",
+        "lastMonitoredTimeStamp": null,
+        "lastMonitoredBlock": null
+    },
+    {
+        "nickName": "0x5f-Capital",
+        "address": "0x5f896f9464efd90afcece73ef0ab4ee63536c184",
+        "lastMonitoredTimeStamp": null,
+        "lastMonitoredBlock": null
+    },
+    {
+        "nickName": "ppt-0x5f-Capital",
+        "address": "0x937ec42ddfec2059bb64d613f99547a62cda6c01",
+        "lastMonitoredTimeStamp": null,
+        "lastMonitoredBlock": null
+    },
+    {
+        "nickName": "pdf-0x5f-Capital",
+        "address": "0x96488f9fcd0c6997c771a26d85d1f61cacfa502c",
+        "lastMonitoredTimeStamp": null,
+        "lastMonitoredBlock": null
+    }
 ]
