@@ -157,8 +157,6 @@ async function getTxAction(tx, monitorTarget) {
             getTxnAction1(tx, monitorTarget),
             getTxnAction2(tx, monitorTarget),
         ])
-        console.log(result1)
-        console.log(result2)
         if (result1) {
             return result1
         } else if (result2) {
