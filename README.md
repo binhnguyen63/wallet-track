@@ -1,3 +1,17 @@
-add new User. Run this command line
-node -e "require('./functions/manipulateTxData.js').addUser('userName','address')"
-node -e "require('./functions/manipulateTxData.js').addUser('ppt.0x5f-Capital','0x937EC42DDfEC2059BB64D613F99547a62cda6c01')"
+ETHEREUM WALLET TRACKING BOT
+
+# Step 1: Add ETH wallet that you want to track
+
+-   You can either modify the data/monitor-addresses.json or run the following command line
+
+```
+    node -e "require('./functions/manipulateTxData.js').addUser('userName','address')"
+```
+
+# Step 2: Run the program
+
+-   Run main.js
+
+```
+    node main.js
+```
